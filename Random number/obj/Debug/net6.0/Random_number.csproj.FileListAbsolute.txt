@@ -1,0 +1,15 @@
+C:\Users\Tobin\source\repos\Random number\Random number\bin\Debug\net6.0\Random_number.exe
+C:\Users\Tobin\source\repos\Random number\Random number\bin\Debug\net6.0\Random_number.deps.json
+C:\Users\Tobin\source\repos\Random number\Random number\bin\Debug\net6.0\Random_number.runtimeconfig.json
+C:\Users\Tobin\source\repos\Random number\Random number\bin\Debug\net6.0\Random_number.dll
+C:\Users\Tobin\source\repos\Random number\Random number\bin\Debug\net6.0\Random_number.pdb
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.csproj.AssemblyReference.cache
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.AssemblyInfoInputs.cache
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.AssemblyInfo.cs
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.csproj.CoreCompileInputs.cache
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.dll
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\refint\Random_number.dll
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.pdb
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\Random_number.genruntimeconfig.cache
+C:\Users\Tobin\source\repos\Random number\Random number\obj\Debug\net6.0\ref\Random_number.dll
